@@ -1,0 +1,11 @@
+* 目標
+** 天気
+天気の情報から、お出かけスポット
+** 映画
+気分から映画
+** twtter bot
+(API key) eOxg5Cfv3BkfVrmUKLQ0psbq8
+(API secret)  06QXFWEjowmKTGtw7kkDZzLQeQtURGQqQXjC07AXQQLIgOoBl5
+
+
+
