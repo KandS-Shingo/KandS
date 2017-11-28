@@ -3,10 +3,10 @@ import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
 
-auth = twitter.OAuth(consumer_key= config.CONSUMER_KEY,
-                     consumer_secret= config.CONSUMER_SECRET,
-                     token= = config.ACCESS_TOKEN,
-                     token_secret== config.ACCESS_TOKEN_SECRET)
+auth = twitter.OAuth(consumer_key="eOxg5Cfv3BkfVrmUKLQ0psbq8",
+consumer_secret="06QXFWEjowmKTGtw7kkDZzLQeQtURGQqQXjC07AXQQLIgOoBl5",
+token="933296923817021440-KiieMOOp7x26GRcEJ6KRCJcYeuZClfr",
+token_secret="qXcxCDAJmo5C6UQlxwyPIYnkpO26rawmNRl6qpxhSRC8y")
 
 t = twitter.Twitter(auth=auth)
 
